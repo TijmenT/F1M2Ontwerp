@@ -1,0 +1,54 @@
+body {
+    background-color: #008742 ;
+
+}
+
+h1  {
+    color : #FFF;
+    text-align : center;
+    font-weight : bold;
+    font-family : Comic Sans MS;
+    font-size : 230% ;
+
+}
+
+p1 {
+
+color : #FFF;
+font-family : Comic Sans MS;
+font-size : 130%;
+}
+
+ol {
+    color : #FFF;
+    font-family : Comic Sans MS;
+}
+
+li {
+    color: #FFF;
+    font-size : 175%;
+    font-weight : bold;
+    font-family : Comic Sans MS;
+}
+a.button{
+	font-family : Comic Sans MS;
+	display : inline-block;
+	line-height : 40px;
+	background-color : transparent;
+	color : #FFF;
+	text-decoration : none;
+	text-transform : uppercase;
+	font-weight : 300;
+	font-size : 13px;
+	padding : 0 20px;
+	border-radius : 50px;
+	border : solid 1px #fff ;
+	transition : .3s;
+}
+
+a.button:hover{
+	color : #000;
+	background-color : #fff;
+	border : solid 1px #000 ;
+
+}
