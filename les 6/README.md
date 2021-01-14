@@ -1,3 +1,3 @@
 # F1M2JS-Rotation-Sensor   
 
-[Demo https://schw.hosts1.ma-cloud.nl/2020/rotation/](https://schw.hosts1.ma-cloud.nl/2020/rotation/)  
+[Demo http://30957.hosts1.ma-cloud.nl/F1M1Ontwerp/les6/F1M2JS-Rotation-Sensor/sensors.html](http://30957.hosts1.ma-cloud.nl/F1M1Ontwerp/les6/F1M2JS-Rotation-Sensor/sensors.html)  
