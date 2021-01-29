@@ -8,38 +8,43 @@ img{
 }
 body{
     font-family: sans-serif;
-    background-color: rgb(50, 109, 50);
-    color: floralwhite;
+    background-color: #e3f8a4;
+    color: olive;
     
 }
+img{
+    max-width: 100%;
+}
+
 nav{
-    background-color: rgb(128, 166, 238);
-    height: 39px;
+    background-color: rgb(14, 73, 14);
 
 }
 nav a {
     display: block;
     color: white;
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 5px 10px;
     width: 200px;
     float: left;
     text-align: center;
+    background-color:rgb(14, 73, 14)
 }
 nav a:hover{
-    background-color: rgb(83, 139, 243);
+    background-color: rgb(29, 51, 22);
 }
-h1{
+
+h1 {
     clear: both;
-    color: rgb(255, 255, 255);
     margin: 0;
-    padding: 30px;
-}
-section{
+    color: white;
+    background-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 
 }
+
 footer{
-    background-color: rgb(31, 31, 31);
-    color: white;
+    background-color: #333;
+    color: #CCC;
     padding: 10px 30px;
 }
